@@ -1,6 +1,19 @@
 Hi, I'm Maruf
 
-2nd-year CSE student. Currently learning: deep learning, linear algebra. Working on: reproducing a paper on image classification. Looking for: research collaboration.
+2nd-year CSE student at Daffodil International University, Dhaka.
+I'm building a strong foundation in algorithms and machine learning, with the goal of pursuing research and higher studies abroad.
 
-### 📫 Connect With Me
-- GitHub: [ahmaruf011](https://github.com/ahmaruf011)
+## What I'm doing now
+
+- Learning: Python, data structures, linear algebra, probability
+- Practicing: competitive programming on Codeforces (C++)
+- Next: building small Python projects, then reproducing a research paper
+
+## Interests
+
+Machine learning, algorithms, problem solving
+
+## Connect
+
+- LinkedIn: [Md. Abdullahil Al Maruf](https://www.linkedin.com/in/ah-maruf-b23115390)
+- Email: ahmaruf011@gmail.com
