@@ -1,7 +1,7 @@
 Hi, I'm Maruf
 
 2nd-year CSE student at Daffodil International University, Dhaka.
-I'm building a strong foundation in algorithms and machine learning, with the goal of pursuing research and higher studies abroad.
+I'm building a strong foundation in algorithms and machine learning, with the goal of becoming a researcher.
 
 ## What I'm doing now
 
